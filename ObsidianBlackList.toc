@@ -1,8 +1,9 @@
 ## Interface: 11200
 ## Title: Obsidian BlackList
-## Notes: Data module for Obsidian
+## Notes: Master Blacklist for Obsidian.. 
 ## Author: Obsidian Team
 ## Version: 1.0
 ## Dependencies: 
 
 ObsidianBlackList.lua
+External.lua
